@@ -1,0 +1,26 @@
+[
+   { 
+        
+        "id" : "1",
+        "question": "In a school cafeteria, 4 people can sit together at 1 table. if 2 tables are placed together, 6 people can sit together. How many tables would we need for 60 people to sit together.",
+        "image" : [ "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiblWsvxHFCliM5p8V2W9boxQLKFB04OtjrnxQhaW_PF-81gkX3JReMzj8_jLXtB7wZwA&usqp=CAU", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQUMrWJUnY5_vKUtHrbLYcsMhgNpof1-vorO3h3MRdqd_L2XYBQ0KN6P6MUpNV9UW3-jI&usqp=CAU" ],
+        "options" : ["28", "29", "27", "30"]
+    },
+
+    { 
+        
+        "id" : "2",
+        "question": "a book or other written or printed work, regarded in terms of its content rather than its physical form.",
+        "image" : [ "https://us.123rf.com/450wm/dreamcreation01/dreamcreation011807/dreamcreation01180700083/104760862-cartoon-happy-bee-waving-hand.jpg?ver=6", "https://thumbs.dreamstime.com/b/cartoon-honeybee-clip-art-vector-illustration-cute-84719720.jpg" ],
+        "options" : ["20", "19", "17", "14"]
+    },
+
+    { 
+        
+        "id" : "3",
+        "question": "the main body of a book or other piece of writing, as distinct from other material such as notes, appendices, and illustrations.",
+        "image" : [ "https://i.pinimg.com/736x/33/53/71/335371c455a5e2cd21a9f67522790054.jpg", "https://i.pinimg.com/originals/b9/33/37/b933376b2af3c1dad244431a9cf64fde.jpg" ],
+        "options" : ["48", "39", "37", "34"]
+    }
+
+]
